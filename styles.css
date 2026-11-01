@@ -535,7 +535,6 @@ h2 em {
 
 .belief-note {
   grid-column: 1 / -1;
-  max-width: 720px;
   margin: 0;
   color: #64746a;
   font-size: 11px;
