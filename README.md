@@ -9,10 +9,10 @@ tools or runtime dependencies.
 2. In the repository, open **Settings → Pages** and select **Deploy from a
    branch**, then choose the `main` branch and `/ (root)` as the folder.
 3. The review site is available at
-   <https://mgiusfredi.github.io/kingstonbahai/>.
+   <https://bahai-kingston.github.io/kingstonbahai/>.
 4. When ready to use the community domain, add a `CNAME` file containing
    `www.kingston.bahai.org.au`, point the `www` DNS record to
-   `mgiusfredi.github.io`, then set the custom domain in **Settings → Pages**
+   `bahai-kingston.github.io`, then set the custom domain in **Settings → Pages**
    and enable **Enforce HTTPS** when available.
 
 GitHub Pages serves the files in the repository root; no build step is needed.
